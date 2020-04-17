@@ -8,7 +8,7 @@
 
 <h1 align="center"><a href="https://www.iota.org"> IOTA Streams Initiative</a></h1>
 
-<p align="center">The Outreach Initiative is aimed to provide help, guidance, and spotlight to the Node.js community.</p>
+<p align="center">The IOTA Streams Initiative is aimed to provide help, guidance, and spotlight to the IOTA Developer Community.</p>
 
 <p align="center">
   <a title="MIT License" href="LICENSE">
