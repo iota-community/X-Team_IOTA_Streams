@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2020 IOTA Foundation
+Copyright (c) 2020 IOTA Foundation  
 Copyright (c) 2019 OpenJS Foundation
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
