@@ -45,7 +45,7 @@ Quality Assurance/Review goal includes making sure that the releases are easily 
 
 ### Documentation
 
-Community content goal includes everything related to writing, curating, and sharing content around with solid documentation at every launch, that is kept up-to-date, well-written explanations of tangible use cases to stimulate developer interest
+Documentation goal includes everything related to writing, curating, and sharing content around with solid documentation at every launch, that is kept up-to-date, well-written explanations of tangible use cases to stimulate developer interest
 
 > [Discuss the work-in-progress ideas for documentation here →]
 
