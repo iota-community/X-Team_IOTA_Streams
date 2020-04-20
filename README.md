@@ -51,13 +51,13 @@ Documentation goal includes everything related to writing, curating, and sharing
 
 ### Code samples development
 
-Community contributions goal includes Code examples and well-presented PoCs to kick start devs Create a list of RFP’s for the EDF to fund Open-Source development
+Code samples development goal includes Code examples and well-presented PoCs to kick start devs Create a list of RFP’s for the EDF to fund Open-Source development
 
 > [Discuss the work-in-progress ideas for code samples development here →]
 
 ###  Improvements to module/libraries
 
-Community contributions goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
+Improvements to module/libraries goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
 
 > [Discuss the work-in-progress ideas for improvements to module/libraries here →](
 
