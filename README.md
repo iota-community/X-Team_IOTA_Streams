@@ -64,3 +64,9 @@ Improvements to module/libraries goal includes Developer-friendly APIs at launch
 ## 🤔 How Can You Get Involved?
 
 Show your interest by adding your information with an issue here on github and join the IOTA Experience Team on the [IOTA Discord](https://discord.iota.org).
+
+## 🧱 What to expect?
+
+Meet every other week for with IOTA Foundation members to exchange ideas, give and receive feedback for the choosen goal(s).
+
+This initiative is possible thanks to the contribution of the IOTA Community members and participants will be invited to participate in feedback collecting and evaluating sessions to further push the capabilities of the IOTA Experience Teams. 
