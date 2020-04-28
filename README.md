@@ -41,25 +41,27 @@ The IOTA Streams is in its alpha implementation. We are currently focused on imp
 
 Quality Assurance/Review goal includes making sure that the releases are easily usable, has no obvious bugs or pitfalls that might turn developers off from trying further once they run into them, make sure that the examples we provide are clear and work for the most common use cases the release is aimed at.
 
-> [ ] #1
+ > - [ ] [IOTA Streams Feedback (A)](https://github.com/iota-community/IOTAStreams/issues/1)
 
 ### Documentation
 
 Documentation goal includes everything related to writing, curating, and sharing content around with solid documentation at every launch, that is kept up-to-date, well-written explanations of tangible use cases to stimulate developer interest
 
-> [Discuss the work-in-progress ideas for documentation here →]
+> - [ ] [“Channels Application step-by-step” joint blog post series (B)](https://github.com/iota-community/IOTAStreams/issues/2)
 
 ### Code samples development
 
 Code samples development goal includes Code examples and well-presented PoCs to kick start devs Create a list of RFP’s for the EDF to fund Open-Source development
 
-> [Discuss the work-in-progress ideas for code samples development here →]
+> - [ ] [IOTA Streams Integrations (B)](https://github.com/iota-community/IOTAStreams/issues/3)
 
 ###  Improvements to module/libraries
 
 Improvements to module/libraries goal includes Developer-friendly APIs at launch Solid comms both at release and after release (e.g. spotlight for community projects using each of libs)
 
-> [Discuss the work-in-progress ideas for improvements to module/libraries here →](
+> - [ ] [IOTA Streams Integrations (B)](https://github.com/iota-community/IOTAStreams/issues/3)
+> - [ ] [Select optimal Spongos PRP and hash function for embedded devices (C)](https://github.com/iota-community/IOTAStreams/issues/4)
+> - [ ] [Improve benchmarks](https://github.com/iota-community/IOTAStreams/issues/5)
 
 ## 🤔 How Can You Get Involved?
 
