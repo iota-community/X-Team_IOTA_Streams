@@ -67,6 +67,6 @@ Show your interest by adding your information with an issue here on github and j
 
 ## 👥 What to expect?
 
-Meet every other week with IOTA Foundation members to exchange ideas, give and receive feedback for the chosen goal(s).
+Meet with IOTA Foundation members to exchange ideas, give and receive feedback for the chosen goal(s).
 
 This initiative is possible thanks to the contribution of the IOTA Community members and participants will be invited to participate in feedback collecting and evaluating sessions to further push the capabilities of the IOTA Experience Teams. 
