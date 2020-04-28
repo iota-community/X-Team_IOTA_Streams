@@ -41,7 +41,7 @@ The IOTA Streams is in its alpha implementation. We are currently focused on imp
 
 Quality Assurance/Review goal includes making sure that the releases are easily usable, has no obvious bugs or pitfalls that might turn developers off from trying further once they run into them, make sure that the examples we provide are clear and work for the most common use cases the release is aimed at.
 
-> [Discuss the work-in-progress ideas for quality assurance/review here →]
+> [ ] #1
 
 ### Documentation
 
