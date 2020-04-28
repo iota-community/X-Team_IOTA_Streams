@@ -1,8 +1,8 @@
 ---
 name: X-Team Initiative Goal
 about: Standardize X-Team Goal definitions
-title: ''
-labels: ''
+title: "[GOAL]"
+labels: goal
 assignees: ''
 
 ---
@@ -15,15 +15,8 @@ Insert a goal description
 1. Two
 1. Three
 
-| Key Result              | Champion(s) | Team members | Issue #s                                                         |
-| ----------------------- | ----------- | ------------ | ------------------------------------------------------------ |
-| One    |             |              | TBA |
-| Two |             |              | TBA |
-| Three                     |             |              |                                                              |
-
 # Team
-e.g.:
-GoShimmer - IOTA Experience Team
+IOTA Streams - IOTA Experience Team
 
 ## Contributors
 ### X-Team members
@@ -39,3 +32,8 @@ e.g.
 * link to documentation
 * link to repository
 * link
+
+# Governance
+Please use the following emoji reactions in this post to indicate:
+:+1: - Participating
+:heavy_plus_sign: - Add my vote
