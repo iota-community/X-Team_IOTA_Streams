@@ -1,6 +1,6 @@
 ---
 name: X-Team Initiative Goal
-about: Standardize X-Team Goal definitions
+about: Standardize X-Team Goal definitions; Priority goes from A to C (high to low)
 title: "[GOAL]"
 labels: goal
 assignees: ''
@@ -8,26 +8,25 @@ assignees: ''
 ---
 
 # Goal Title
+**Priority: ()**
 Insert a goal description
 
 ## Key results
-1. One
-1. Two
-1. Three
+1. - [ ] One
+1. - [ ] Two
+1. - [ ] Three
 
 # Team
 IOTA Streams - IOTA Experience Team
 
 ## Contributors
 ### X-Team members
-e.g.
 @githubusername - Name Surname - thisis@myema.il 
 
 ### IOTA Foundation member
 @githubusername - Name Surname - thisis@iota.org
 
 # Additional Information
-e.g.
 * link to project
 * link to documentation
 * link to repository
