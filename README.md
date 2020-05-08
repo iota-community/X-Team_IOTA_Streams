@@ -77,6 +77,6 @@ This initiative is possible thanks to the contribution of the IOTA Community mem
 ## Contributors
 Thanks to the IOTA Community members who have contributed to this repository.
 
-![iota-x-team/IOTAStreams_contributors](./resources/images/contributors_x_streams.svg)
+![iota-x-team/IOTAStreams_contributors](./page-resources/images/contributors_x_streams.svg)
 
 Based on all-time [SourceCred](https://sourcecred.io) scores.
