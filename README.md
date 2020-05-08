@@ -72,3 +72,11 @@ Show your interest by adding your information with an issue here on github and j
 Meet with IOTA Foundation members to exchange ideas, give and receive feedback for the chosen goal(s).
 
 This initiative is possible thanks to the contribution of the IOTA Community members and participants will be invited to participate in feedback collecting and evaluating sessions to further push the capabilities of the IOTA Experience Teams. 
+
+
+## Contributors
+Thanks to the IOTA Community members who have contributed to this repository.
+
+![iota-x-team/IOTAStreams_contributors](./resources/images/contributors_x_streams.svg)
+
+Based on all-time [SourceCred](https://sourcecred.io) scores.
