@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="https://www.iota.org">
-    <img src="https://media.iota.works/IOTA_Logo/Black/IOTA_Logo_black_100px.png"/>
+    <img src="https://images.ctfassets.net/xit7f234flxz/2UaYq5cR53ANDAKRT4HYWT/a4d962d037954adef7d0aa9a2e944a26/iota-small-logo.png"/>
   </a>
 </p>
 
